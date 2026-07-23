@@ -1,0 +1,27 @@
+# --- DeepLearning.AI course assets (not redistributable) ---
+raw_data/
+audio_examples/
+XY_dev/
+td_utils.py
+
+# --- Generated during data synthesis ---
+train.wav
+
+# --- Model artifacts ---
+*.h5
+*.keras
+models/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- OS ---
+.DS_Store
+Thumbs.db

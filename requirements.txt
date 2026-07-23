@@ -1,0 +1,14 @@
+# Core
+numpy
+scipy
+matplotlib
+
+# Audio handling — also requires FFmpeg installed on the system PATH
+pydub
+
+# Model
+tensorflow>=2.10
+
+# Notebook environment
+jupyter
+ipython
